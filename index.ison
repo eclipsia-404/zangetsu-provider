@@ -1,0 +1,15 @@
+{
+  "name": "Eclipsia",
+  "description": "Providers for Zangetsu",
+  "sources": [
+    {
+      "id": "cinefreak",
+      "name": "Cinefreak",
+      "version": "1.1.0",
+      "type": "movie",
+      "lang": "en",
+      "file": "providers/cf.js",
+      "nsfw": false
+    }
+  ]
+}
